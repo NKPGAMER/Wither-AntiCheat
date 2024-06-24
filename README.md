@@ -8,27 +8,30 @@
 - **Anti Flying**: Ngăn chặn hack bay
 - **Anti Speed**: Ngăn chặn người chơi chạy quá nhanh
 - **Quản lý các vụ nổ**
-  1. **Chặn toàn bộ vụ nổ**: Toàn bộ các vụ nổ sẽ không ảnh hưởng đến khối, người chơi.
+  - **Chặn toàn bộ vụ nổ**: Toàn bộ các vụ nổ sẽ không ảnh hưởng đến khối, người chơi.
   
-  2. **Ngăn chặn TNT nổ hàng loạt**: Giới hạn các TNT trong thế giới. Tối đa mặc định là 3, nếu vượt quá 3 thì TNT khác sẽ không bị kích hoạt. Thay vào đó sẽ chờ đến khi số lượng TNT thấp hơn mới kích hoạt
+  - **Ngăn chặn TNT nổ hàng loạt**: Giới hạn các TNT trong thế giới. Tối đa mặc định là 3, nếu vượt quá 3 thì TNT khác sẽ không bị kích hoạt. Thay vào đó sẽ chờ đến khi số lượng TNT thấp hơn mới kích hoạt
 
-- **Giao diện người dùng**
+**Giao diện người dùng**
   1. **Giao diện thành viên**
     Cung cấp giao diện mặc định cho toàn bộ người chơi
   Cho phép người chơi:
+`
     - Tố cáo người chơi
     - Dịch chuyển đến các điểm dịch chuyển hoặc tạo các điểm dịch chuyển(nếu cho phép)
     - Sử dụng các tiện ích được hỗ trợ bởi Wither Anti Cheat
-  
-  2. **Giao diện người hỗ trợ**
+  `
+  3. **Giao diện người hỗ trợ**
     Giao diện này cho phép các người chơi được cấp quyền (đổi chế độ chơi, chỉnh thời gian,...). Nhưng vẫn bị hạn chế một vài tính năng nguy hiểm.
   Cho phép người chơi:
    Sử dụng toàn bộ chức năng của **Giao diện thành viên**
+   ```
    - Thay đổi thời gian
    - Thay đổi thời tiết
    - Lấy vật phẩm
    - Đổi chế độ chơi
    - Dịch chuyển tùy ý
+   ```
   
   3. **Giao diện quản trị viên**:\
     Không bị hạn chế bởi bất kỳ chức năng nào.
