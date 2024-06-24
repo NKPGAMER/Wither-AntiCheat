@@ -56,8 +56,10 @@
   - Sử dụng ứng dụng có hỗ trợ nhập tệp [Đề xuất: "Zarchiver"] và nhập vào Minecraft;
  
  # IOS
-  1. Sao chép thư mục gốc của Wither Anti Cheat
-  2. 
+  1. Ấn giữ và chọn di chuyển thư mục gốc của Wither Anti Cheat
+  2. Chọn `Trên iPhone`.
+  3. Chọn `Minecraft/games/com.mojang/behavior_pack`
+  4. Chọn Sao chép
 
 ## Cấu hình
 - **Giải nén tệp**
